@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import Navbar from './components/navbar/navbar'
-import Footer from './components/footer/footer'
+import Footer from './components/Footer/Footer'
 import { Route, Routes } from 'react-router-dom'
 import Home from './pages/Home/Home'
 import Cart from './pages/Cart/Cart'
