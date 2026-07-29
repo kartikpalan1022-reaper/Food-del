@@ -133,18 +133,15 @@ Add screenshots inside an `assets` folder and update the paths below.
 
 | Home | Cart |
 |------|------|
-|<img width="1906" height="1044" alt="Image" src="https://github.com/user-attachments/assets/ca7cf1a0-963b-413f-8207-64140bf61198" />|
-|<img width="1802" height="1035" alt="Image" src="https://github.com/user-attachments/assets/d32d6b27-ae7b-4290-9fc1-a9b9e8a6bc00" />|
+|<img width="1906" height="1044" alt="Image" src="https://github.com/user-attachments/assets/ca7cf1a0-963b-413f-8207-64140bf61198" />|<img width="1802" height="1035" alt="Image" src="https://github.com/user-attachments/assets/d32d6b27-ae7b-4290-9fc1-a9b9e8a6bc00" />|
 
 | Login | Checkout |
 |------|------|
-|<img width="1833" height="1037" alt="Image" src="https://github.com/user-attachments/assets/8dce6119-7204-4de2-8711-98b398287dd2" />|
-|<img width="1820" height="1018" alt="Image" src="https://github.com/user-attachments/assets/f135a0cf-c5c8-4a2a-bdc4-6594cf9e6189" />|
+|<img width="1833" height="1037" alt="Image" src="https://github.com/user-attachments/assets/8dce6119-7204-4de2-8711-98b398287dd2" />|<img width="1820" height="1018" alt="Image" src="https://github.com/user-attachments/assets/f135a0cf-c5c8-4a2a-bdc4-6594cf9e6189" />|
 
 | Admin Dashboard | Orders |
 |------|------|
-|<img width="1845" height="1034" alt="Image" src="https://github.com/user-attachments/assets/8dbe7556-82ed-45d1-bb19-47abbbc9fcf1" />|
-|<img width="1890" height="1039" alt="Image" src="https://github.com/user-attachments/assets/927ae3b0-92f6-425a-be31-7d6996535704" />|
+|<img width="1845" height="1034" alt="Image" src="https://github.com/user-attachments/assets/8dbe7556-82ed-45d1-bb19-47abbbc9fcf1" />|<img width="1890" height="1039" alt="Image" src="https://github.com/user-attachments/assets/927ae3b0-92f6-425a-be31-7d6996535704" />|
 
 ---
 
