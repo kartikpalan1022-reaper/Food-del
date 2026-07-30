@@ -3,6 +3,11 @@
 A full-stack MERN Food Delivery application where users can browse food items, manage their cart, place orders, and admins can manage products and orders through a dedicated dashboard.
 
 ---
+## 🌐 Live Demo
+
+- **User App:** https://food-del-sigma-nine.vercel.app/
+
+---
 
 ## ✨ Features
 
