@@ -1,6 +1,10 @@
-import mongoose from "mongoose";
 
- export const connectDB = async()=>{
-    (await mongoose.connect('mongodb+srv://greatstack:Palan1270@cluster0.ynfo2kq.mongodb.net/food-del').then(()=>console.log("DB Connected"))
-);
+
+import mongoose from 'mongoose'
+
+const connectDB = async()=>{
+    mongoose.connection.on("connected",()=>console.log("MongoDB connected"));
+    await mongoose.connect(process.env.MONGODB_URI)
 }
+
+export default connectDB;
